@@ -1,2 +1,2 @@
-# Calories_-Burnt_Prediction
+# Calories_Burnt_Prediction
 Calories Burnt Prediction using XGB Regression algorithm 
